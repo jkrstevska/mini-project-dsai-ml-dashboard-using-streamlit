@@ -67,6 +67,10 @@ Choose one:
 
 - Your repository with the completed `Home.py` and the two pages, and a screenshot of each page in your README (or the public URL if you deployed it).
 
+## Live app
+
+https://dvd-sakila-rec.streamlit.app
+
 ## Submission
 
 Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
